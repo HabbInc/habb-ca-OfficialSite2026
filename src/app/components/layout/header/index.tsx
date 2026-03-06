@@ -106,7 +106,7 @@ const Header = () => {
               ) : (
                 <div className='flex items-center gap-2'>
                   <Link
-                    href={'mailto:habblanka@gmail.com'}
+                    href={'mailto:info@habb.ca'}
                     className='hidden lg:block bg-purple_blue text-white font-medium px-2 xl:px-4 py-1 rounded-full hover:opacity-90'>
                     Contact Us
                   </Link>
@@ -210,7 +210,7 @@ const Header = () => {
                 ) : (
                   <>
                     <Link
-                      href={'mailto:thuvatheking@gmail.com'}
+                      href={'mailto:info@habb.ca'}
                       onClick={() => setSidebarOpen(false)}
                       className='w-full text-center bg-purple_blue text-white px-3 py-1.5 rounded-md'>
                       Contact Us

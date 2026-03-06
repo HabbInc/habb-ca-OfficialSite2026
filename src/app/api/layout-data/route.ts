@@ -77,19 +77,18 @@ const footerData = {
         name: "Websites",
         links: [
             { name: "habb.lk", url: "https://habb.lk" },
+            { name: "habb.uk", url: "https://habb.uk" },
             { name: "habblanka.com", url: "https://habblanka.com" },
             { name: "habbgate.com", url: "https://habbgate.com" }
         ]
     },
     contactDetails: {
         name:"Get In Touch",
-        address1: "40 Linden Rd, Luton LU4 9QZ, United Kingdom",
-        email: "info@habblanka.com",
-        phone: "+94 70 1111 055",
+        address1: "2225 Markham Rd, Scarborough, Toronto ON M1B 2W3, Canada",
+        email: "info@habb.ca",
+        phone: "+ (647) 409-8264",
         phones: [
-            "+94 70 1111 055",
-            "+94 77 4704 219",
-            "+94 71 0111 484"
+            "+ (647) 409-8264"
         ]
     },
     copyright: "©2026 HABB (PVT) LTD. All Rights Reserved"

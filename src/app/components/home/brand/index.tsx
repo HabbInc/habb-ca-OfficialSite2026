@@ -7,7 +7,6 @@ import flagFrance from '@/assets/flags/Flag_of_France.svg.png'
 import flagCanada from '@/assets/flags/Flag_of_Canada_(Pantone).svg'
 import flagAustralia from '@/assets/flags/Flag_of_Australia_(converted).svg.png'
 import flagSwitzerland from '@/assets/flags/Flag_of_Switzerland_(Pantone).svg'
-import flagUK from '@/assets/flags/Flag_of_the_United_Kingdom_(1-2).svg'
 import flagIndia from '@/assets/flags/Flag_of_India.svg'
 
 function Brand() {
@@ -56,7 +55,7 @@ function Brand() {
                 <div className='marquee-icons-track py-6'>
                   {[
                     { src: flagSriLanka, alt: 'Sri Lanka' },
-                    { src: flagUK, alt: 'United Kingdom' },
+                    { src: flagCanada, alt: 'Canada' },
                     { src: flagGermany, alt: 'Germany' },
                     { src: flagFrance, alt: 'France' },
                     { src: flagCanada, alt: 'Canada' },
@@ -64,7 +63,7 @@ function Brand() {
                     { src: flagSwitzerland, alt: 'Switzerland' },
                     { src: flagIndia, alt: 'India' },
                     { src: flagSriLanka, alt: 'Sri Lanka' },
-                    { src: flagUK, alt: 'United Kingdom' },
+                    { src: flagCanada, alt: 'Canada' },
                     { src: flagGermany, alt: 'Germany' },
                     { src: flagFrance, alt: 'France' },
                     { src: flagCanada, alt: 'Canada' },

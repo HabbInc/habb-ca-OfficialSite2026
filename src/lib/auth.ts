@@ -5,6 +5,9 @@ import CredentialsProvider from "next-auth/providers/credentials";
 import bcrypt from 'bcryptjs'
 import { getDb } from './mongodb'
 
+export const ADMIN_EMAIL = process.env.ADMIN_EMAIL || 'info@habb.ca'
+export const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'habbSuperAdmin10$^@'
+
 export const authOptions: NextAuthOptions = {
   pages: {
     signIn: "/signin",

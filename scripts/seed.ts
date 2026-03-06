@@ -39,13 +39,13 @@ const eventSeed = [
     title: 'Jaffna Office Meetup 🚀',
     description: 'A great team meetup at our Jaffna office — unity, strategy, and fun!',
     image: 'https://images.unsplash.com/photo-1521737604893-d14cc237f11d',
-    link: 'https://habblanka.com/2025/06/25/habb-jaffna/',
+    link: 'https://habb.ca/2025/06/25/habb-jaffna/',
   },
   {
     title: 'Vanta 25 Showcase 🚀',
     description: 'Proud to be part of Vanta 25 – celebrating innovation and tech!',
     image: 'https://images.unsplash.com/photo-1529333166433-4ddc0b5b9e9b',
-    link: 'https://habblanka.com/2025/07/04/vanta-25-habb-phase-2-begins-a-new-era-of-product-driven-innovation/',
+    link: 'https://habb.ca/2025/07/04/vanta-25-habb-phase-2-begins-a-new-era-of-product-driven-innovation/',
   },
   {
     title: 'Team HABB at SLIIT! 🚀',
@@ -57,13 +57,13 @@ const eventSeed = [
     title: 'Exciting Beginnings! 🚀',
     description: 'Thrilled to announce the launch of HABB Software Company!',
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f',
-    link: 'https://habblanka.com/2025/02/08/habb-launched/',
+    link: 'https://habb.ca/2025/02/08/habb-launched/',
   },
   {
     title: 'Innovating at Northern Uni! 🚀',
     description: 'Discussing HABB’s vision and future impact with aspiring minds!',
     image: 'https://images.unsplash.com/photo-1522075469751-3a6694fb2f61',
-    link: 'https://habblanka.com/2025/02/16/habb-nothern-uni/',
+    link: 'https://habb.ca/2025/02/16/habb-nothern-uni/',
   },
   {
     title: 'Guidance & mentorship 🚀',
