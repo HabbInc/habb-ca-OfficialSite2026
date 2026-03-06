@@ -86,9 +86,9 @@ const footerData = {
         name:"Get In Touch",
         address1: "2225 Markham Rd, Scarborough, Toronto ON M1B 2W3, Canada",
         email: "info@habb.ca",
-        phone: "+ (647) 409-8264",
+        phone: "+1 (647) 409-8264",
         phones: [
-            "+ (647) 409-8264"
+            "+1 (647) 409-8264"
         ]
     },
     copyright: "©2026 HABB (PVT) LTD. All Rights Reserved"

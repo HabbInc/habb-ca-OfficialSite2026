@@ -64,8 +64,8 @@ const innovationList = [
   {
     image: '/images/home/innovation/uiux.svg',
     title: 'UI/UX\nEngineering',
-    bg_color: 'bg-orange/20',
-    txt_color: 'text-orange',
+    bg_color: 'bg-red/20',
+    txt_color: 'text-red',
   },
   {
     image: '/images/home/innovation/analitics.svg',
@@ -124,8 +124,8 @@ const WebResultTagList = [
   {
     image: '/images/home/result/strategy.svg',
     name: 'Scalability',
-    bg_color: 'bg-orange/20',
-    txt_color: 'text-orange',
+    bg_color: 'bg-red/20',
+    txt_color: 'text-red',
   },
 ]
 

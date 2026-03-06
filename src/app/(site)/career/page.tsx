@@ -88,7 +88,7 @@ export default function CareerPage() {
 
                 <div className="flex flex-wrap gap-2 mb-6">
                 {job.employmentType && (
-                  <span className="px-4 py-1.5 bg-orange/10 text-orange rounded-full text-sm font-medium border border-orange/20">
+                  <span className="px-4 py-1.5 bg-red/10 text-red rounded-full text-sm font-medium border border-red/20">
                     {job.employmentType}
                   </span>
                 )}

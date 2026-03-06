@@ -125,7 +125,7 @@ function Branches() {
                     href={branch.map}
                     target='_blank'
                     rel='noreferrer'
-                    className='group inline-flex items-center justify-between w-full rounded-xl border border-orange/30 bg-orange/10 px-4 py-3 text-sm font-semibold text-dark_black dark:text-white hover:border-orange/50 hover:bg-orange/20 transition-colors duration-200'
+                    className='group inline-flex items-center justify-between w-full rounded-xl border border-red/30 bg-red/10 px-4 py-3 text-sm font-semibold text-dark_black dark:text-white hover:border-red/50 hover:bg-red/20 transition-colors duration-200'
                   >
                     <span>View on Google Maps</span>
                     <span className='inline-flex items-center gap-2 px-3 py-1 rounded-full bg-dark_black text-white text-xs shadow-sm group-hover:translate-x-0.5 transition-transform duration-150'>

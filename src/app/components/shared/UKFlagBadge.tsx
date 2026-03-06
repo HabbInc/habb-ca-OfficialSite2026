@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function CanadaFlagBadge({ className = '' }: { className?: string }) {
   return (
-    <span className={`inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/80 dark:bg-dark_black/80 border border-orange/30 shadow-sm ${className}`}>
+    <span className={`inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/80 dark:bg-dark_black/80 border border-red/30 shadow-sm ${className}`}>
       <svg width="24" height="14" viewBox="0 0 60 30" className="rounded-sm">
         <rect width="60" height="30" fill="#ff0000" />
         <rect x="18" y="0" width="24" height="30" fill="#fff" />

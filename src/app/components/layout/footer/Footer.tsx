@@ -36,7 +36,7 @@ const Footer = () => {
     <footer className='xl:pt-20 pb-6'>
       <div className='container'>
         {/* Canada Badge Section */}
-        <div className='py-8 mb-8 px-6 rounded-lg bg-gradient-to-r from-purple_blue/10 via-orange/10 to-purple_blue/10 dark:from-purple_blue/20 dark:via-orange/20 dark:to-purple_blue/20 border border-orange/20'>
+        <div className='py-8 mb-8 px-6 rounded-lg bg-gradient-to-r from-purple_blue/10 via-red/10 to-purple_blue/10 dark:from-purple_blue/20 dark:via-red/20 dark:to-purple_blue/20 border border-red/20'>
           <div className='flex items-center justify-center gap-3 mb-3'>
             <svg width='24' height='14' viewBox='0 0 60 30' className='rounded'>
               <rect width='60' height='30' fill='#ff0000' />
