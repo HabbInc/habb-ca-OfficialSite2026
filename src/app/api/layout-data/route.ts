@@ -91,7 +91,7 @@ const footerData = {
             "+1 (647) 409-8264"
         ]
     },
-    copyright: "©2026 HABB Inc. All Rights Reserved"
+    copyright: "© 2026 HABB Inc. All Rights Reserved"
 };
 
 export const GET = async () => {
