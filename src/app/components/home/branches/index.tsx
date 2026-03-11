@@ -19,7 +19,7 @@ type Branch = {
 }
 
 const branches: Branch[] = [
-  {
+   {
     image: flagSriLanka,
     title: 'Sri Lanka – Jaffna',
     address: '218, Brown Road, Jaffna 40000',
@@ -27,11 +27,25 @@ const branches: Branch[] = [
     alt: 'Sri Lanka flag',
   },
   {
-    image: flagSriLanka,
-    title: 'Sri Lanka – Colombo',
-    address: 'Janith Dhammika Mawatha, Colombo 10640',
-    map: 'https://share.google/La6np0rQEglmeF51y',
-    alt: 'Sri Lanka flag',
+    image: flagUK,
+    title: 'United Kingdom',
+    address: '212 Higham Lane, Nuneaton CV11 6AS, United Kingdom',
+    map: 'https://share.google/asyPUHzru2m0gUGs0',
+    alt: 'United Kingdom flag',
+  },
+  {
+    image: flagCanada,
+    title: 'Canada',
+    address: '2225 Markham Rd, Scarborough, ON M1B 2W4',
+    map: 'https://share.google/Y0Wm2G1DISAfuELGz',
+    alt: 'Canada flag',
+  },
+  {
+    image: flagSwitzerland,
+    title: 'Switzerland',
+    address: 'Sonnheimstrasse 6, 3415 Rüegsau, Switzerland',
+    map: 'https://share.google/dYX0RaydWsTotv4xI',
+    alt: 'Switzerland flag',
   },
   {
     image: flagGermany,
@@ -48,13 +62,6 @@ const branches: Branch[] = [
     alt: 'France flag',
   },
   {
-    image: flagCanada,
-    title: 'Canada',
-    address: '2225 Markham Rd, Scarborough, ON M1B 2W4',
-    map: 'https://share.google/Y0Wm2G1DISAfuELGz',
-    alt: 'Canada flag',
-  },
-  {
     image: flagAustralia,
     title: 'Australia',
     address: '3 Sayer Cres, Gosnells WA 6110',
@@ -62,25 +69,18 @@ const branches: Branch[] = [
     alt: 'Australia flag',
   },
   {
-    image: flagSwitzerland,
-    title: 'Switzerland',
-    address: 'Update coming soon',
-    map: '',
-    alt: 'Switzerland flag',
-  },
-  {
-    image: flagUK,
-    title: 'United Kingdom',
-    address: '40 Linden Rd, Luton LU4 9QZ, United Kingdom',
-    map: 'https://share.google/asyPUHzru2m0gUGs0',
-    alt: 'United Kingdom flag',
-  },
-  {
     image: flagIndia,
     title: 'India',
     address: 'Church Road, Mogappair, Chennai, Tamil Nadu 600037',
     map: 'https://share.google/XZADCzuCaAjGX6JN3',
     alt: 'India flag',
+  },
+    {
+    image: flagSriLanka,
+    title: 'Sri Lanka – Colombo',
+    address: 'Janith Dhammika Mawatha, Colombo 10640',
+    map: 'https://share.google/La6np0rQEglmeF51y',
+    alt: 'Sri Lanka flag',
   },
 ]
 
